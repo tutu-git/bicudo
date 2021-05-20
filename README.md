@@ -6,7 +6,7 @@ Trabalho da disciplina de Práticas de Desenvolvimento de Software
 - [Matheus Guilherme Arraes Veloso](https://github.com/MaMiotto)
 - [Ricardo Bruno da Cruz Costa](https://github.com/ricardobrunoc)
 - [Henry Tamekloe](https://github.com/henrany)
-- Arthur Lisboa
+- Bruno Martins
 
 ## 💻 Escopo Funcional
 
