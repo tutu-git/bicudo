@@ -3,10 +3,10 @@ Trabalho da disciplina de Práticas de Desenvolvimento de Software
 
 ## 👥 Equipe de Desenvolvedores
 
-- [Matheus Guilherme Arraes Veloso](https://github.com/MaMiotto)
-- [Ricardo Bruno da Cruz Costa](https://github.com/ricardobrunoc)
-- [Henry Tamekloe](https://github.com/henrany)
-- [Bruno Martins](https://github.com/tutu-git)
+- [Matheus Guilherme Arraes Veloso](https://github.com/MaMiotto) (Frontend)
+- [Henry Tamekloe](https://github.com/henrany) (Frontend)
+- [Ricardo Bruno da Cruz Costa](https://github.com/ricardobrunoc) (Backend)
+- [Bruno Martins](https://github.com/tutu-git) (Backend)
 
 ## 💻 Escopo Funcional
 
@@ -38,4 +38,6 @@ Os serviços são organizados em categorias (hidráulico, elétrico, instalaçã
   <img src="https://img.shields.io/badge/QUnit.js-9e2f96?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
+## 📋 Kanban Board
 
+No desenvolvimento deste projeto utilizamos um [Quadro Kanban](https://github.com/MaMiotto/bicudo/projects/1) para melhor organização do andamento das tarefas. 
