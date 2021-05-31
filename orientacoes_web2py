@@ -1,0 +1,20 @@
+1. Baixar o web2py
+    (página)http://www.web2py.com/init/default/download
+    (link direto "For Python 3.7") https://mdipierro.pythonanywhere.com/examples/static/web2py_src.zip
+2. Extrair arquivo
+3. Executar:
+    ../web2py_3_7/$ python3 web2py.py
+    Preencher: "Choose Password:"
+    clicar: start server
+4. Acessar aplicação:
+    http://127.0.0.1:8000/welcome/default/index
+    clicar: Meus sites (Menu superior)
+    preencher senha
+5. Localizar: Nova aplicação básica
+    Preencher: bicudo
+    Criar
+6. Acessar novo sistema: http://127.0.0.1:8000/bicudo
+
+Para atualizar a aplicação basta substituir os arquivos da aplicação "bicudo" pelos obtidos no github.
+(Obs.: em geral basta substituir as pastas controller, models e views)
+../web2py/applications/bicudo
